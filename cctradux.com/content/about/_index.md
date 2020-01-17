@@ -1,7 +1,6 @@
 ---
 title: "About"
 date: 2020-01-17T12:23:30-07:00
-draft: true
 profile: "/css/images/profile.jpg"
 ---
 

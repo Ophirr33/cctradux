@@ -14,7 +14,7 @@ theme = "aerial"
 [[params.social]]
   medium = "About Me"
   icon = "address-card"
-  link = "#"
+  link = "/about"
 
 [[params.social]]
   medium = "Translations"
