@@ -1,0 +1,32 @@
+languageCode = "en-us"
+title = "Aerial"
+baseurl = "https://cctradux.com/"
+theme = "aerial"
+
+[params]
+  name = "Codi Coghlan"
+  about = "Translations &nbsp;&bull;&nbsp; Voice Recordings"
+  copyright = "Codi Coghlan"
+  #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
+  bg_scroll = ""
+  favicon = "favicon.ico"
+
+[[params.social]]
+  medium = "About Me"
+  icon = "address-card"
+  link = "#"
+
+[[params.social]]
+  medium = "Translations"
+  icon = "language"
+  link = "#"
+
+[[params.social]]
+  medium = "Voice Recordings"
+  icon = "microphone"
+  link = "#"
+
+[[params.social]]
+  medium = "Email"
+  icon = "envelope-o"
+  link = "#"
