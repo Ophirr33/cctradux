@@ -1,0 +1,13 @@
+{{define "main" }}
+
+<!-- Header -->
+<header id="header">
+	<div id="about-content">
+		<img id="profile-picture" src="{{ .Params.profile }}" alt="Profile Picture">
+		<div id="bio">
+		{{ .Content }}
+		</div>
+	</div>
+</header>
+
+{{ end }}

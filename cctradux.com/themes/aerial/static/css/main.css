@@ -270,6 +270,26 @@
 		width: 6750px;
 	}
 
+	#article {
+		color: black;
+		font-size: 1.35em;
+		text-align: left;
+		background-color: rgb(255, 255, 255, 0.75);
+		padding: .5rem;
+	}
+
+	#article > * {
+		margin: 0 0 1rem 0;
+	}
+
+	#article img {
+		float: left;
+		line-height: 100%;
+		max-width: 100%;
+		max-height: 100%;
+		margin: 0 1rem 0 0;
+	}
+
 /* Overlay */
 
 	@-moz-keyframes overlay {
